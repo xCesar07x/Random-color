@@ -8,7 +8,7 @@ import QuoteBox from './QuoteBox'
 function App() {
   const [count, setCount] = useState(0)
   // console.log(users)
-  console.log(colors)
+  // console.log(colors)
   return (
     // className="App" style={{background: "whitesmoke"}}
     <div >

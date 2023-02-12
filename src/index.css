@@ -15,6 +15,9 @@
   -webkit-text-size-adjust: 100%;
 }
 
+.img-logo{
+  position: absolute
+}
 
 a {
   font-weight: 500;
